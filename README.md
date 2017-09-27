@@ -18,8 +18,6 @@
 
 ## Code Part
 
-![Example game of isolation](viz.gif)
-
 * MinimaxPlayer.minimax(): implement minimax search
 * AlphaBetaPlayer.alphabeta(): implement minimax search with alpha-beta pruning
 * AlphaBetaPlayer.get_move(): implement iterative deepening search
@@ -56,3 +54,13 @@
 
      * Why might alphabeta pruning only work well in the two player case?
      * How does the size of the search tree change with more than two players?
+
+     ---
+# Project 03: Implement a Planning Search
+![image](http://www.geeksforgeeks.org/wp-content/uploads/APathFinding.png)
+### Coding and Analysis
+
+In this project, you will define a group of problems in classical PDDL (Planning Domain Definition Language) for the air cargo domain discussed in the lectures. You will then set up the problems for search, experiment with various automatically generated heuristics, including planning graph heuristics, to solve the problems, and then provide an analysis of the results. Additionally, you will write a short research review paper on the historical development of planning techniques and their use in artificial intelligence.
+
+### Research Review
+After completing the coding and analysis portion of the project, read up on important historical developments in the field of AI planning and search. Write a one-page report on three of these developments, highlighting the relationships between the developments and their impact on the field of AI as a whole.
