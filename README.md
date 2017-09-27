@@ -64,3 +64,14 @@ In this project, you will define a group of problems in classical PDDL (Planning
 
 ### Research Review
 After completing the coding and analysis portion of the project, read up on important historical developments in the field of AI planning and search. Write a one-page report on three of these developments, highlighting the relationships between the developments and their impact on the field of AI as a whole.
+
+# Project 04: Buld a Sign Language Recognizer
+
+![image](https://i.pinimg.com/736x/4f/63/90/4f6390b164814195c7571a0e5b9d9b19--sign-language-phrases-sign-language-dictionary.jpg)
+
+![image](https://cdn-images-1.medium.com/max/1600/1*Vc5XpcfCS33vmrBaDbiCSA.png)
+
+###
+In this project, you will build a system that can recognize words communicated using the American Sign Language (ASL). You will be provided a preprocessed dataset of tracked hand and nose positions extracted from video. Your goal would be to train a set of Hidden Markov Models (HMMs) using part of this dataset to try and identify individual words from test sequences.
+
+As an optional challenge, you can incorporate Statistical Language Models (SLMs) that capture the conditional probability of particular sequences of words occurring. This will help you improve the recognition accuracy of your system.
